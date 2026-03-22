@@ -1,109 +1,40 @@
 ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
-authors:
-  - me
-tags:
-  - Hugo Blox
-  - Markdown
+title: "Version Control with Git"
+date: 2026-03-22
+tags: ["git", "version-control"]
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Git version control'
 cover:
-  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
-  position:
-    x: 50
-    y: 40
-  overlay:
-    enabled: true
-    type: "gradient"
-    opacity: 0.4
-    gradient: "bottom"
-  fade:
-    enabled: true
-    height: "80px"
-  icon:
-    name: "✨"
+  image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80"
 ---
 
-Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+## What is Version Control?
 
-## Ideation
+Version control is a system that tracks changes to files over time. It allows you to go back to previous versions, collaborate with others, and keep a full history of your project.
 
-Hugo Blox supports a Markdown extension for mindmaps.
+## What is Git?
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
+Git is the most widely used version control system in the world. It was created by Linus Torvalds in 2005. Git is distributed, meaning every developer has a full copy of the project history on their machine.
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
+## Why Use Git?
 
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - netlify
-  - netlify-cms
-  - slides
-```
-</code>
-</pre>
-</div>
+- **Track changes** — see exactly what changed, when, and who changed it
+- **Collaboration** — multiple people can work on the same project simultaneously
+- **Backup** — your code is safely stored on remote platforms like GitHub
+- **Branching** — work on new features without affecting the main codebase
 
-renders as
+## Basic Git Commands
 
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - netlify
-  - netlify-cms
-  - slides
-```
+| Command | Description |
+|--------|-------------|
+| `git init` | Initialize a new repository |
+| `git clone <url>` | Copy a remote repository locally |
+| `git add .` | Stage all changes |
+| `git commit -m "message"` | Save staged changes with a message |
+| `git push` | Upload commits to remote repository |
+| `git pull` | Download latest changes from remote |
+| `git branch` | List or create branches |
 
-## Diagrams
+## My Experience with Git
 
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
-
-An example **Gantt diagram**:
-
-    ```mermaid
-    gantt
-    section Section
-    Completed :done,    des1, 2014-01-06,2014-01-08
-    Active        :active,  des2, 2014-01-07, 3d
-    Parallel 1   :         des3, after des1, 1d
-    Parallel 2   :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
-    ```
-
-renders as
-
-```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-
-## Todo lists
-
-You can even write your todo lists in Markdown too:
-
-```markdown
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-```
-
-renders as
-
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-
-## Did you find this page helpful? Consider sharing it 🙌
+This week I used Git extensively to set up my personal website. I cloned a template repository, made changes locally, and pushed them to GitHub. I also ran into a situation where I accidentally committed large files, which taught me the importance of setting up a proper `.gitignore` file before starting a project!
