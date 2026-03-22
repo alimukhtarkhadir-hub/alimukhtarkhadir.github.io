@@ -3,9 +3,9 @@ title: "Version Control with Git"
 date: 2026-03-22
 tags: ["git", "version-control"]
 image:
-  caption: 'Git version control'
+  caption: 'Photo by Unsplash'
 cover:
-  image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80"
+  image: "https://images.unsplash.com/photo-1q1p2DrLBtko?q=80&w=1200"
 ---
 
 ## What is Version Control?
