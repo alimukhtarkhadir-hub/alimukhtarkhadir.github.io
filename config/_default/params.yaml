@@ -13,7 +13,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
+    name: "Ali Mukhtar Khadir"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
@@ -70,11 +70,11 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   layout:
     # Border radius: 'none', 'sm', 'md', 'lg', or 'full'
-    radius: "md"
+    radius: "full"
     # Spacing density: 'compact', 'comfortable', or 'spacious'
-    spacing: "comfortable"
+    spacing: "spacious"
     # Avatar shape in author profiles
-    avatar_shape: circle                # circle | square | rounded
+    avatar_shape: rounded                # circle | square | rounded
 
   # ────────────────────────────────────────────────────────────────────────────
   # HEADER
