@@ -10,7 +10,7 @@ role: 1st Year Student of Applied Informatics
 
 organizations:
   - name: RUDN University
-    url: https://www.rudn.ru/
+    url: ''
 
 bio: A passionate student and proud Kenyan patriot, studying Applied Informatics with the goal of bringing knowledge and innovation back home to Kenya.
 
@@ -18,7 +18,6 @@ interests:
   - Cybersecurity
   - Artificial Intelligence
   - Programming
-  - Data Science
 
 education:
   courses:

@@ -11,7 +11,7 @@ name:
 postnominals: []
 status:
   icon: "🎓"
-  role: 1st Year Student of Applied Informatics
+role: 1st Year Student of Applied Informatics
 bio: |
   A passionate student and proud Kenyan patriot, studying Applied Informatics
   at RUDN University with the goal of bringing knowledge and innovation back
@@ -23,86 +23,23 @@ links:
   - icon: brands/github
     url: https://github.com/alimukhtarkhadir-hub
     label: GitHub
-  - icon: brands/orcid
-    url: https://orcid.org/
-    label: ORCID
-  - icon: brands/google-scholar
-    url: https://scholar.google.com/
-    label: Google Scholar
-  - icon: brands-researchgate
-    url: https://www.researchgate.net/
-    label: ResearchGate
-  - icon: brands-academia
-    url: https://www.academia.edu/
-    label: Academia.edu
-  - icon: brands-arxiv
-    url: https://arxiv.org/
-    label: arXiv
-  - icon: brands-mendeley
-    url: https://www.mendeley.com/
-    label: Mendeley
-  - icon: brands-elibrary
-    url: https://elibrary.ru/
-    label: eLibrary
 interests:
   - Cybersecurity
   - Artificial Intelligence
   - Programming
-  - Data Science
 education:
   - degree: BSc Applied Informatics
     institution: RUDN University
     start: 2024-09-01
-experience:
-  - organization: Self-Learning
-    role: Cybersecurity Enthusiast
-    start: 2023-01-01
-    end: 2024-08-31
-    location: Kenya
-    description: |
-      Self-studied cybersecurity fundamentals and participated in online Capture The Flag (CTF) competitions.
-  - organization: RUDN University
-    role: Student
-    start: 2024-09-01
-    location: Moscow, Russia
-    description: |
-      First-year student studying Applied Informatics.
-accomplishments:
-  - title: Introduction to Cybersecurity
-    organization: Independent Study
-    date: "2024-06-01"
-    description: Completed foundational cybersecurity course covering network security, cryptography, and ethical hacking basics.
-  - title: Python Programming Certification
-    organization: Online Course
-    date: "2024-03-01"
-    description: Earned Python programming certification from an online learning platform.
-  - title: CTF Competition Participant
-    organization: Various Platforms
-    date: "2024-01-01"
-    description: Participated in multiple Capture The Flag cybersecurity competitions.
 skills:
-  - name: Programming
+  - name: Technical Skills
     items:
       - label: Python
         level: 3
+      - label: Cybersecurity
+        level: 2
       - label: Git
         level: 3
-      - label: SQL
-        level: 2
-  - name: Cybersecurity
-    items:
-      - label: Network Security
-        level: 2
-      - label: Cryptography
-        level: 2
-  - name: Tools & Technologies
-    items:
-      - label: Linux
-        level: 3
-      - label: GitHub
-        level: 3
-      - label: Docker
-        level: 1
 languages:
   - name: English
     level: 5
@@ -110,9 +47,3 @@ languages:
   - name: Russian
     level: 2
     label: Learning
-  - name: Swahili
-    level: 5
-    label: Native
-  - name: Arabic
-    level: 2
-    label: Basic
