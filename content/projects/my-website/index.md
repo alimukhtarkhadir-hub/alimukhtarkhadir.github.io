@@ -14,7 +14,6 @@ My personal academic website built with Hugo and deployed on GitHub Pages.
 ## Features
 
 - Responsive design
-- Bilingual (English/Russian)
 - Blog section
 - Projects showcase
 - Experience section
@@ -26,10 +25,3 @@ My personal academic website built with Hugo and deployed on GitHub Pages.
 - HugoBlox Academic Theme
 - GitHub Actions for CI/CD
 - GitHub Pages for hosting
-
-## What I Learned
-
-- Setting up static site generators
-- GitHub Actions workflow configuration
-- Website customization
-- Bilingual content management

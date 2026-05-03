@@ -15,17 +15,9 @@ This week I explored various academic tools and continued improving my website.
 ## Research Platforms Discovered
 
 I learned about several important academic resources:
-- **Google Scholar** - for finding academic papers
-- **ResearchGate** - social network for researchers
-- **arXiv** - preprint repository for physics, mathematics, and computer science
-- **ORCID** - unique researcher identifier
-- **Mendeley** - reference management tool
-- **eLibrary** - Russian scientific library
-
-## Challenges
-
-Keeping up with regular updates while managing my studies. Time management is key!
-
-## Looking Ahead
-
-Next week: more content about LaTeX and scientific writing tools.
+- Google Scholar - for finding academic papers
+- ResearchGate - social network for researchers
+- arXiv - preprint repository
+- ORCID - unique researcher identifier
+- Mendeley - reference management tool
+- eLibrary - Russian scientific library

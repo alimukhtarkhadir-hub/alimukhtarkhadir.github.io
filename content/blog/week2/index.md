@@ -18,11 +18,3 @@ I set up a GitHub Actions workflow that:
 - Deploys to GitHub Pages on every push
 
 This was an exciting experience as I now understand how modern software development works with automated pipelines.
-
-## Challenges
-
-Configuring the workflow took some time. I had to understand YAML syntax and GitHub's workflow configuration. I also ran into issues with permissions that required generating a GitHub token.
-
-## Looking Ahead
-
-Next week I'll continue customizing the site and adding more content about my projects.

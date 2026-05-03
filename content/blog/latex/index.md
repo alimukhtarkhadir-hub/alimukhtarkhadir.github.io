@@ -8,10 +8,10 @@ LaTeX is a document preparation system widely used in academia for scientific do
 
 ## Why LaTeX?
 
-- **Professional quality** - produces publication-ready documents
-- **Math support** - excellent mathematical typesetting
-- **Cross-referencing** - automatic figure and table numbering
-- **Consistency** - consistent formatting throughout
+- Professional quality - produces publication-ready documents
+- Excellent mathematical typesetting
+- Automatic figure and table numbering
+- Consistent formatting throughout
 
 ## Basic Document Structure
 
@@ -23,23 +23,14 @@ LaTeX is a document preparation system widely used in academia for scientific do
 
 \begin{document}
 \maketitle
-
 \section{Introduction}
 This is my first LaTeX document.
-
-\section{Mathematics}
-Here is an equation:
-\[ E = mc^2 \]
 \end{document}
 ```
 
-## Common Packages
+## Popular Packages
 
-- `amsmath` - Advanced math features
-- `graphicx` - Graphics inclusion
-- `babel` - Language support
-- `natbib` - Bibliography styles
-
-## My Experience
-
-I've started learning LaTeX for writing academic papers and reports. The learning curve is steep but worth it for professional-looking documents.
+- amsmath - Advanced math features
+- graphicx - Graphics inclusion
+- babel - Language support
+- natbib - Bibliography styles
