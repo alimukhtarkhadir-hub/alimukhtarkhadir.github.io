@@ -12,21 +12,6 @@ en:
 # Russian language
 ru:
   languageCode: ru
-  contentDir: content/ru
   title: Али Мухтар Хадир
   params:
     description: Персональный академический сайт Али Мухтар Хадира - студента 1-го курса Прикладной информатики в РУДН
-  menu:
-    main:
-      - name: Главная
-        url: /
-        weight: 1
-      - name: Опыт
-        url: /experience/
-        weight: 2
-      - name: Проекты
-        url: /projects/
-        weight: 3
-      - name: Новости
-        url: /#news
-        weight: 4
