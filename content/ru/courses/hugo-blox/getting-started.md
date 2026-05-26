@@ -1,38 +1,38 @@
 ---
-title: Getting Started
+title: Начало работы
 date: 2024-02-17
 weight: 1
 type: docs
 ---
 
-## Quick Start from Template
+## Быстрый старт из шаблона
 
 {{% steps %}}
 
-### Create a site
+### Создайте сайт
 
-[Click to choose your starting template](https://hugoblox.com/templates)
+[Нажмите, чтобы выбрать начальный шаблон](https://hugoblox.com/templates)
 
-### Configure your new site
+### Настройте новый сайт
 
-[Configure your site name, description, and menu.](https://docs.hugoblox.com/tutorial/blog/)
+[Настройте имя сайта, описание и меню.](https://docs.hugoblox.com/tutorial/blog/)
 
-### Add your content
+### Добавьте контент
 
-[Edit the homepage and add your documentation pages.](https://docs.hugoblox.com/tutorial/blog/)
+[Отредактируйте главную страницу и добавьте страницы документации.](https://docs.hugoblox.com/tutorial/blog/)
 
-### Publish your site
+### Опубликуйте сайт
 
-Your site will automatically publish ~1-5 minutes after you commit (save) changes to files in your GitHub repository.
+Ваш сайт будет автоматически опубликован через ~1–5 минут после сохранения изменений в вашем GitHub-репозитории.
 
 {{% /steps %}}
 
-## Next
+## Далее
 
-Let's customize your new site:
+Давайте настроим ваш новый сайт:
 
 {{< cards >}}
-  {{< card url="../guide/project-structure" title="Project Structure" icon="document-duplicate" >}}
-  {{< card url="../guide/configuration" title="Configuration" icon="adjustments-vertical" >}}
-  {{< card url="../guide/formatting" title="Create content" icon="document-duplicate" >}}
+  {{< card url="../guide/project-structure" title="Структура проекта" icon="document-duplicate" >}}
+  {{< card url="../guide/configuration" title="Конфигурация" icon="adjustments-vertical" >}}
+  {{< card url="../guide/formatting" title="Создание контента" icon="document-duplicate" >}}
 {{< /cards >}}

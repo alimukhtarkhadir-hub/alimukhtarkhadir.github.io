@@ -1,6 +1,6 @@
 ---
-title: Cards
-linkTitle: Cards
+title: Карточки
+linkTitle: Карточки
 ---
 
 A Hugo extension to create cards. Cards can be shown as links or as plain text.

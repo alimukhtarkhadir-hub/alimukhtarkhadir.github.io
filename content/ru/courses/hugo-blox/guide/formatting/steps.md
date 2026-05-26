@@ -1,6 +1,6 @@
 ---
-title: Steps
-linkTitle: Steps
+title: Шаги
+linkTitle: Шаги
 ---
 
 Display a series of steps, such as for a tutorial.

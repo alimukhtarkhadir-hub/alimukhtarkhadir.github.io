@@ -1,5 +1,5 @@
 ---
-title: Project Structure
+title: Структура проекта
 weight: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Customizing Hugo
-linkTitle: Customization
+title: Настройка Hugo
+linkTitle: Настройка
 weight: 1
 ---
 

@@ -1,23 +1,23 @@
 ---
-title: "Week 3 - Exploring Academic Tools"
+title: "Неделя 3 — Знакомство с академическими инструментами"
 date: 2026-04-05
 tags: ["weekly", "academic"]
 ---
 
-This week I explored various academic tools and continued improving my website.
+На этой неделе я изучил различные академические инструменты и продолжил совершенствовать свой сайт.
 
-## Accomplishments
+## Достижения
 
-- Added more sections to my personal website including Skills, Experience, and Accomplishments
-- Updated my biography and added my photo
-- Explored different academic platforms for researchers
+- Добавил на личный сайт новые разделы: Навыки, Опыт и Достижения
+- Обновил биографию и добавил фотографию
+- Изучил различные академические платформы для исследователей
 
-## Research Platforms Discovered
+## Обнаруженные исследовательские платформы
 
-I learned about several important academic resources:
-- Google Scholar - for finding academic papers
-- ResearchGate - social network for researchers
-- arXiv - preprint repository
-- ORCID - unique researcher identifier
-- Mendeley - reference management tool
-- eLibrary - Russian scientific library
+Я познакомился с несколькими важными академическими ресурсами:
+- Google Scholar — для поиска научных статей
+- ResearchGate — социальная сеть для исследователей
+- arXiv — репозиторий препринтов
+- ORCID — уникальный идентификатор исследователя
+- Mendeley — менеджер библиографических ссылок
+- eLibrary — российская научная электронная библиотека

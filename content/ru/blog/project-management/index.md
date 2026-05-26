@@ -1,40 +1,40 @@
 ---
-title: "Version Control with Git"
+title: "Контроль версий с Git"
 date: 2026-03-22
 tags: ["git", "version-control"]
 image:
-  caption: 'Photo by Unsplash'
+  caption: 'Фото с Unsplash'
 cover:
   image: "https://images.unsplash.com/photo-1q1p2DrLBtko?q=80&w=1200"
 ---
 
-## What is Version Control?
+## Что такое контроль версий?
 
-Version control is a system that tracks changes to files over time. It allows you to go back to previous versions, collaborate with others, and keep a full history of your project.
+Система контроля версий отслеживает изменения файлов с течением времени. Она позволяет возвращаться к предыдущим версиям, работать в команде и хранить полную историю проекта.
 
-## What is Git?
+## Что такое Git?
 
-Git is the most widely used version control system in the world. It was created by Linus Torvalds in 2005. Git is distributed, meaning every developer has a full copy of the project history on their machine.
+Git — самая распространённая система контроля версий в мире. Она была создана Линусом Торвальдсом в 2005 году. Git — распределённая система: каждый разработчик хранит полную историю проекта на своей машине.
 
-## Why Use Git?
+## Зачем использовать Git?
 
-- **Track changes** — see exactly what changed, when, and who changed it
-- **Collaboration** — multiple people can work on the same project simultaneously
-- **Backup** — your code is safely stored on remote platforms like GitHub
-- **Branching** — work on new features without affecting the main codebase
+- **Отслеживание изменений** — видно, что изменилось, когда и кто это сделал
+- **Совместная работа** — несколько человек могут работать над одним проектом одновременно
+- **Резервное копирование** — код надёжно хранится на таких платформах, как GitHub
+- **Ветки** — работа над новыми функциями без влияния на основную кодовую базу
 
-## Basic Git Commands
+## Основные команды Git
 
-| Command | Description |
-|--------|-------------|
-| `git init` | Initialize a new repository |
-| `git clone <url>` | Copy a remote repository locally |
-| `git add .` | Stage all changes |
-| `git commit -m "message"` | Save staged changes with a message |
-| `git push` | Upload commits to remote repository |
-| `git pull` | Download latest changes from remote |
-| `git branch` | List or create branches |
+| Команда | Описание |
+|--------|----------------|
+| `git init` | Инициализировать новый репозиторий |
+| `git clone <url>` | Скопировать удалённый репозиторий локально |
+| `git add .` | Добавить все изменения в индекс |
+| `git commit -m "message"` | Сохранить изменения с комментарием |
+| `git push` | Загрузить коммиты в удалённый репозиторий |
+| `git pull` | Получить последние изменения из удалённого репозитория |
+| `git branch` | Показать или создать ветки |
 
-## My Experience with Git
+## Мой опыт с Git
 
-This week I used Git extensively to set up my personal website. I cloned a template repository, made changes locally, and pushed them to GitHub. I also ran into a situation where I accidentally committed large files, which taught me the importance of setting up a proper `.gitignore` file before starting a project!
+На этой неделе я активно использовал Git для настройки личного сайта. Я клонировал шаблонный репозиторий, внёс изменения локально и загрузил их на GitHub. Также я случайно добавил в коммит большие файлы — это научило меня важности настройки `.gitignore` до начала проекта!

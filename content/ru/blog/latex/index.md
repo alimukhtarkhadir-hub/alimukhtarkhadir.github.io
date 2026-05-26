@@ -1,36 +1,36 @@
 ---
-title: "Introduction to LaTeX"
+title: "Введение в LaTeX"
 date: 2026-04-05
 tags: ["latex", "scientific-writing"]
 ---
 
-LaTeX is a document preparation system widely used in academia for scientific documents.
+LaTeX — система подготовки документов, широко используемая в академической среде для научных работ.
 
-## Why LaTeX?
+## Почему LaTeX?
 
-- Professional quality - produces publication-ready documents
-- Excellent mathematical typesetting
-- Automatic figure and table numbering
-- Consistent formatting throughout
+- Профессиональное качество — документы, готовые к публикации
+- Превосходная математическая вёрстка
+- Автоматическая нумерация рисунков и таблиц
+- Единообразное форматирование по всему документу
 
-## Basic Document Structure
+## Базовая структура документа
 
 ```latex
 \documentclass{article}
-\title{My First Document}
-\author{Your Name}
+\title{Мой первый документ}
+\author{Ваше имя}
 \date{\today}
 
 \begin{document}
 \maketitle
-\section{Introduction}
-This is my first LaTeX document.
+\section{Введение}
+Это мой первый документ в LaTeX.
 \end{document}
 ```
 
-## Popular Packages
+## Популярные пакеты
 
-- amsmath - Advanced math features
-- graphicx - Graphics inclusion
-- babel - Language support
-- natbib - Bibliography styles
+- amsmath — расширенные математические возможности
+- graphicx — вставка графики
+- babel — поддержка языков
+- natbib — стили библиографии

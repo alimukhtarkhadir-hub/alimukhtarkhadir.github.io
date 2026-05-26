@@ -1,5 +1,5 @@
 ---
-title: Configuration
+title: Конфигурация
 weight: 2
 ---
 

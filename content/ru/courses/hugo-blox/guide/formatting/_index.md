@@ -1,8 +1,8 @@
 ---
-title: Formatting
+title: Форматирование
 ---
 
-Write rich, engaging content with Markdown and re-usable Hugo Blox components (shortcodes):
+Создавайте красивый контент с помощью Markdown и компонентов Hugo Blox:
 
 {{< cards >}}
   {{< card url="button" title="Button" icon="cursor-arrow-rays" >}}

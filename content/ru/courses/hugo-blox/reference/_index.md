@@ -1,6 +1,6 @@
 ---
-linkTitle: Reference
-title: Reference
+linkTitle: Справочник
+title: Справочник
 ---
 
 This section covers reference docs.

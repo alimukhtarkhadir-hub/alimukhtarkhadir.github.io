@@ -1,5 +1,5 @@
 ---
-title: Guide
+title: Руководство
 weight: 2
 sidebar:
   open: true

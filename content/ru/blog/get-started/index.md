@@ -1,17 +1,17 @@
 ---
-title: "Week 1 - Setting Up My Personal Site"
+title: "Неделя 1 — Настройка личного сайта"
 date: 2026-03-22
 tags: ["weekly"]
 image:
-  caption: 'My first week with Hugo'
+  caption: 'Моя первая неделя с Hugo'
 cover:
   image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80"
 ---
 
-This week I worked on setting up my personal academic website using Hugo and GitHub Pages.
+На этой неделе я работал над созданием личного академического сайта на Hugo с хостингом на GitHub Pages.
 
-I started by installing Hugo, Go, Node.js, and TailwindCSS on my Fedora Linux machine. It was not always straightforward — I had to update Hugo from version 0.152 to 0.158 manually because the template required a newer version, and I also had to install TailwindCSS to get the site to build correctly.
+Я начал с установки Hugo, Go, Node.js и TailwindCSS на свой компьютер с Fedora Linux. Это оказалось непросто — мне пришлось вручную обновить Hugo с версии 0.152 до 0.158, так как шаблон требовал более новую версию, а также установить TailwindCSS для корректной сборки сайта.
 
-After getting the site running locally, I set up a GitHub Actions workflow to automatically deploy the site to GitHub Pages every time I push new changes. This was my first time working with CI/CD pipelines and it was exciting to see the site go live automatically.
+После того как сайт заработал локально, я настроил рабочий процесс GitHub Actions для автоматического развёртывания сайта на GitHub Pages при каждом новом коммите. Это был мой первый опыт работы с CI/CD-конвейерами, и было очень интересно наблюдать, как сайт публикуется автоматически.
 
-Finally, I customized the site with my personal information, photo, bio, and interests. The site is now live at https://alimukhtarkhadir-hub.github.io/
+Наконец, я настроил сайт: добавил личную информацию, фотографию, биографию и интересы.

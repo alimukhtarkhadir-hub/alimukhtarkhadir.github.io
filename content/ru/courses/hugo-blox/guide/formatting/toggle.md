@@ -1,8 +1,8 @@
 ---
-title: Spoilers
+title: Спойлеры
 ---
 
-A Hugo shortcode to toggle collapsible content.
+Шорткод Hugo для сворачиваемого контента.
 
 <!--more-->
 

@@ -1,6 +1,6 @@
 ---
 linkTitle: Hugo Blox
-title: Learn Hugo Blox in 10 minutes!
+title: Изучите Hugo Blox за 10 минут!
 date: 2025-09-24
 type: docs
 
@@ -15,14 +15,14 @@ content_meta:
   trending: false
 ---
 
-👋 Welcome to your shiny new site. Ready to learn more?
+👋 Добро пожаловать на ваш новый сайт. Готовы узнать больше?
 
 <!--more-->
 
-This course provides a brief introduction to creating and editing your site with Hugo Blox. For full documentation, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
+Этот курс содержит краткое введение в создание и редактирование сайта с помощью Hugo Blox. Полную документацию смотрите в [документации Hugo Blox](https://docs.hugoblox.com/).
 
-## Next
+## Далее
 
 {{< cards >}}
-  {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Setup your new site in just 5 minutes!" >}}
+  {{< card url="getting-started" title="Начало работы" icon="document-text" subtitle="Настройте свой новый сайт всего за 5 минут!" >}}
 {{< /cards >}}

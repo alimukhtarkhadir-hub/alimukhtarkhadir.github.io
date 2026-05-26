@@ -1,6 +1,6 @@
 ---
-title: Buttons
-linkTitle: Buttons
+title: Кнопки
+linkTitle: Кнопки
 ---
 
 A modern, customizable button shortcode with gradient styling, icons, and smart link handling.

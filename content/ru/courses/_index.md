@@ -1,6 +1,6 @@
 ---
-title: Courses
-summary: My courses
+title: Курсы
+summary: Мои курсы
 type: landing
 
 cascade:
@@ -14,7 +14,7 @@ sections:
   - block: collection
     id: courses
     content:
-      title: Courses
+      title: Курсы
       filters:
         tag: Course
         kinds:

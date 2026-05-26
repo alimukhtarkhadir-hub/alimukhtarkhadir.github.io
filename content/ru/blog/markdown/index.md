@@ -1,33 +1,33 @@
 ---
-title: "Markdown - Lightweight Markup Language"
+title: "Markdown — облегчённый язык разметки"
 date: 2026-04-05
 tags: ["markdown", "markup-languages"]
 ---
 
-Markdown is a lightweight markup language for creating formatted text.
+Markdown — это облегчённый язык разметки для создания форматированного текста.
 
-## Why Markdown?
+## Почему Markdown?
 
-- Simple syntax - easy to learn and use
-- Readable - plain text that looks good even without rendering
-- Portable - works on any text editor
-- Widely supported - GitHub, many apps
+- Простой синтаксис — легко изучить и использовать
+- Читабельность — обычный текст хорошо выглядит даже без рендеринга
+- Портативность — работает в любом текстовом редакторе
+- Широкая поддержка — GitHub, множество приложений
 
-## Basic Syntax
+## Базовый синтаксис
 
 ```markdown
-# Heading 1
-## Heading 2
+# Заголовок 1
+## Заголовок 2
 
-**bold** or *italic*
+**жирный** или *курсив*
 
-- Item 1
-- Item 2
+- Пункт 1
+- Пункт 2
 
-[Link text](https://example.com)
+[Текст ссылки](https://example.com)
 ```
 
 ```python
 def hello():
-    print("Hello, World!")
+    print("Привет, мир!")
 ```

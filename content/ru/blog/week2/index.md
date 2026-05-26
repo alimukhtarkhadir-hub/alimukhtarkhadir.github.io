@@ -1,20 +1,20 @@
 ---
-title: "Week 2 - GitHub Actions and CI/CD"
+title: "Неделя 2 — GitHub Actions и CI/CD"
 date: 2026-03-29
 tags: ["weekly", "ci-cd"]
 ---
 
-This week I explored CI/CD (Continuous Integration/Continuous Deployment) using GitHub Actions.
+На этой неделе я изучал CI/CD (непрерывная интеграция и непрерывное развёртывание) с помощью GitHub Actions.
 
-## What is CI/CD?
+## Что такое CI/CD?
 
-CI/CD automates the process of testing and deploying code. Instead of manually building and uploading changes, CI/CD pipelines do this automatically every time you push to your repository.
+CI/CD автоматизирует процесс тестирования и развёртывания кода. Вместо того чтобы вручную собирать и загружать изменения, CI/CD-конвейеры делают это автоматически при каждом коммите в репозиторий.
 
-## What I Learned
+## Что я узнал
 
-I set up a GitHub Actions workflow that:
-- Builds the Hugo site automatically
-- Runs tests if any exist
-- Deploys to GitHub Pages on every push
+Я настроил рабочий процесс GitHub Actions, который:
+- Автоматически собирает сайт на Hugo
+- Запускает тесты при их наличии
+- Публикует сайт на GitHub Pages при каждом коммите
 
-This was an exciting experience as I now understand how modern software development works with automated pipelines.
+Это был увлекательный опыт — теперь я понимаю, как работает современная разработка программного обеспечения с автоматизированными конвейерами.

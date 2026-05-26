@@ -1,39 +1,39 @@
 ---
-title: "Scientific Programming Languages"
+title: "Языки научного программирования"
 date: 2026-04-05
 tags: ["scientific-programming", "programming"]
 ---
 
-An overview of popular programming languages used in scientific research.
+Обзор популярных языков программирования, используемых в научных исследованиях.
 
 ## Python
 
-The most popular language for scientific computing.
+Самый популярный язык для научных вычислений.
 
-### Key Libraries
-- NumPy - numerical computing
-- SciPy - scientific computing
-- Matplotlib - plotting
-- Pandas - data analysis
-- Scikit-learn - machine learning
-- TensorFlow/PyTorch - deep learning
+### Ключевые библиотеки
+- NumPy — численные вычисления
+- SciPy — научные вычисления
+- Matplotlib — построение графиков
+- Pandas — анализ данных
+- Scikit-learn — машинное обучение
+- TensorFlow/PyTorch — глубокое обучение
 
 ## R
 
-Specialized for statistical computing and graphics.
+Специализированный язык для статистических вычислений и графики.
 
-### Key Packages
-- ggplot2 - data visualization
-- dplyr - data manipulation
-- caret - machine learning
+### Ключевые пакеты
+- ggplot2 — визуализация данных
+- dplyr — обработка данных
+- caret — машинное обучение
 
 ## Julia
 
-High-performance language for numerical computing.
+Высокопроизводительный язык для численных вычислений.
 
-## My Choice
+## Мой выбор
 
-I primarily use Python for its:
-- Extensive scientific libraries
-- Large community
-- Versatility
+Я в основном использую Python благодаря:
+- Обширным научным библиотекам
+- Большому сообществу
+- Универсальности
